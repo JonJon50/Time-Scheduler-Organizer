@@ -2,8 +2,6 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 //dom not only ready, but everything is loaded
-
-
 $(function() {
 
   var today = dayjs();
@@ -14,15 +12,15 @@ $(function() {
   var id = $(this).attr("id");
 
 
-const userlog = document.getElementById("log").value
-
+const userlog = $(this).siblings(".description").val();
+const time = $(this).parent().attr("id");
+console.log("log = ", userlog);
   
   //Local Storage
-  let formFill = JSON.parse(localStorage.getItem("Form Fill")) || []
+  localStorage.setItem(time, userlog);
 
   // save the users information to local storage
-  formFill.push(userlog)
-  localStorage.setItem("Form Fill", JSON.stringify(formFill));
+ 
  });   
 });
   // TODO: Add a listener for click events on the save button. This code should
