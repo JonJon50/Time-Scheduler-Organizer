@@ -20,9 +20,9 @@
 - [x] Authentication // This is done
 
 ScreenShots 🏆
-<!-- ![Photo1](/images/TDS1.png)
+![Photo1](/images/TDS1.png)
 ![Photo2](/images/TDS2.png)
-![Photo2](/images/TDS3.png) -->
+![Photo2](/images/TDS3.png)
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
