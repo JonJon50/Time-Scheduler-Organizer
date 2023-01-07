@@ -20,8 +20,8 @@
 - [x] Authentication // This is done
 
 ScreenShots 🏆
-![Photo1](/images/day-scheduler1.png)
-![Photo2](/images/day-scheduler2.png)
+![Photo1]()
+![Photo2]()
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
