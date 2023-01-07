@@ -4,6 +4,7 @@
 
 [Deployment Website](https://jonjon50.github.io/Time-Scheduler-Organizer/)
 
-![alt text](/images/Work%20Day%20Scheduler%20Pic2.png)
-![alt text](/images/Work%20Day%20Scheduler%203.png)
+![alt text]()
+![alt text]()
+
 
