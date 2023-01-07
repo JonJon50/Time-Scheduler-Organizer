@@ -4,7 +4,7 @@
 
 [Deployment Website](https://jonjon50.github.io/Time-Scheduler-Organizer/)
 
-![alt text]()
-![alt text]()
+![alt text](/images/day-scheduler1.png)
+![alt text](/images/day-scheduler2.png)
 
 
