@@ -1,6 +1,6 @@
 <h1 align="center">Time Scheduler Organizer</h1>
 
-<p align="center">This project is tailored to help user to manage their day.</p>
+<p align="center">This project is tailored to help users to manage their day.</p>
 
 [Deployment Website](https://jonjon50.github.io/Time-Scheduler-Organizer/)
 
@@ -20,8 +20,9 @@
 - [x] Authentication // This is done
 
 ScreenShots 🏆
-![Photo1](/images/TDS1.png)
+<!-- ![Photo1](/images/TDS1.png)
 ![Photo2](/images/TDS2.png)
-![Photo2](/images/TDS3.png)
+![Photo2](/images/TDS3.png) -->
+
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
