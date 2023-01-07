@@ -39,10 +39,10 @@ console.log("log = ", userlog);
   //
   function colorCoder(){
     let currentTime = dayjs().hour();
-
+console.log("currentTime = ", currentTime);
     $(".time-block").each(function(){
-      let logTime = parseInt($(this).appr("id").split("-")[1]);
-
+      let logTime = parseInt($(this).attr("id").split("-")[1]);
+      console.log("logTime = ", logTime);
       if(logTime < currentTime){
         $(this).addClass("past");
       } else if (logTime === currentTime){
