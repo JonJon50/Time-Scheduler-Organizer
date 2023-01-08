@@ -2,6 +2,11 @@
 
 <p align="center">This project is tailored to help users to manage their day.</p>
 
+                               ScreenShots 🏆
+![Photo1](/images/TDS1.png)
+![Photo2](/images/TDS2.png)
+![Photo2](/images/TDS3.png)
+
 [Deployment Website](https://jonjon50.github.io/Time-Scheduler-Organizer/)
 
 **John Hagens**
@@ -19,10 +24,7 @@
 - [x] Reliable Storage // This is done local storage
 - [x] Authentication // This is done
 
-ScreenShots 🏆
-![Photo1](/images/TDS1.png)
-![Photo2](/images/TDS2.png)
-![Photo2](/images/TDS3.png)
+
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
